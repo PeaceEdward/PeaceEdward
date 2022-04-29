@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeaceEdward
-- 👀 I’m interested in Data Analysis and Data Science
+- 👀 I am a student Pharmacist who's interested in Data Analysis and Data Science
 - 🌱 I’m currently learning R, SQL, Tableau,Excel,
 - 💞️ I’m looking to collaborate on data projects
 - 📫 Reach me on peaceedward215@gmail.com
