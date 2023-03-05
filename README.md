@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeaceEdward
 - 👀 I am a student Pharmacist who's interested in Data Analysis and Data Science
-- 🌱 I’m currently learning R, SQL, Tableau,Excel,
+- 🌱 I’m interested in Python, SQL, Tableau, Machine Learning,Deep Learning and everything good in data.
 - 💞️ I’m looking to collaborate on data projects
 - 📫 Reach me on peaceedward215@gmail.com
 
